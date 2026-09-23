@@ -18,7 +18,7 @@
 
 local Config = {
     -- [1] GitHub Key Filet
-    KeyFileURL      = "https://raw.githubusercontent.com/lancelotdemon51-bot/KEY-niyousef/refs/heads/main/2a4c6e8f0b2d4f6a8c0e2b4d6f8a0c2e.txt",
+    KeyFileURL      = "https://raw.githubusercontent.com/lancelotdemon51-bot/KEY-niyousef/refs/heads/main/6f8e0d2c4b6a8f0e2d4c6b8a0f2e4d6c.txt",
     
     -- [2] LootLabs Link
     LootLabsLink    = "https://lootdest.org/s?arFOkT4e",
